@@ -11,5 +11,5 @@ docker pull williamoony/alpine:3.11.3
 ```
 elasticsearch
 ```
-docker pull williamoony/elasticsearch:7.6.2-smartcn
+docker pull williamoony/elasticsearch:7.6.2-cn
 ```
